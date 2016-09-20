@@ -1,9 +1,8 @@
 <snippet>
   <content>
-# php-hi-core
-=======
+# php-hi-pdo
 
-TODO: Implement PHP PDO (PHP Data Objects)
+Implement PHP PDO (PHP Data Objects)
 
 ## Installation
 
