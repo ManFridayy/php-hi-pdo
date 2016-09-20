@@ -2,7 +2,8 @@
   <content>
 # php-hi-pdo
 
-Implement PHP PDO (PHP Data Objects)
+Implement PHP PDO (PHP Data Objects) 
+PDO Support PHP 5 >= 5.1.0, PHP 7, PECL pdo >= 0.1.0
 
 ## Installation
 
